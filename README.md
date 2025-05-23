@@ -1,3 +1,4 @@
+
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
